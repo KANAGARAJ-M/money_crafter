@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "585028919139",
+    "firebase_url": "https://moneycrafter-kaizen-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "moneycrafter-kaizen",
+    "storage_bucket": "moneycrafter-kaizen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585028919139:android:c4173674e84aa5f7d87d56",
+        "android_client_info": {
+          "package_name": "moneycrafter.kaizen.com.money_crafter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEFUW2GZKi7dEeIguSkGS5DC3CmeZk3t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
